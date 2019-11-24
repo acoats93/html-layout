@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(250, 242, 242);
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+}
+.top {
+    background-color: rgb(65, 62, 62);
+    width: 100%;
+    height: 20vh;
+}
+.center {
+    margin: auto;
+    background-color: white;
+    width: 75%;
+    height: 80vh;
+}
+.footer {
+    background-color: rgb(23, 23, 24) ;
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+}

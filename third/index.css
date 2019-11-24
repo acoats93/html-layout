@@ -1,0 +1,40 @@
+.short-rectangle{
+    height: 100px;
+    width: 100vw;
+}
+.tall-rectangle{
+    height: 300px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    height: 200px;
+    width: 70vw;
+    font-size: x-large;
+    text-align: center;
+}
+#blue-square{
+    height: 80px;
+    width: 80px;
+    margin-left: 10px;
+    background: rgb(70, 147, 219);
+}
+#gray{
+    background: rgb(187, 179, 179);
+    display: flex;
+    align-items: center;
+}
+#blue{
+    background: rgb(70, 147, 219);
+}
+#aquamarine{
+    background: rgb(67, 172, 146);
+}
+#mossy-green{
+    background: rgb(143, 233, 107);
+}
+#yellow{
+    background: rgb(252, 215, 6);
+}
